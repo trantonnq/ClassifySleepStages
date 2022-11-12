@@ -1,0 +1,24 @@
+name: project
+dependencies:
+  - python=3.7
+  - cycler==0.10.0
+  - joblib==0.14.1
+  - kiwisolver==1.2.0
+  - matplotlib==3.1.0
+  - pandas==1.0.3
+  - Pillow==8.1.1
+  - pyparsing==2.4.7
+  - python-dateutil==2.8.1
+  - pytz==2020.1
+  - scipy==1.4.1
+  - seaborn==0.10.1
+  - six==1.14.0
+  - pip
+  - pip:
+    - pyEDFlib==0.1.17
+    - docx2txt==0.8
+    - pycryptodome==3.9.7
+    - pdfminer==20191125
+    - sklearn==0.0
+    - numpy==1.18.4
+    - scikit-learn==0.22.2.post1

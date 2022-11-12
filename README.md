@@ -1,6 +1,7 @@
 ## CSE 6250 - Big Data for Health -Final Project
-[Final Paper](Final Paper - Identifying NREM Sleep Stages in Consumer Wearables.pdf)
-[Presentation]
+[Final Paper](https://github.com/trantonnq/ClassifySleepStages/blob/47a9c3eb498bcb99d1856fa406195c63c0e87fd8/Final%20Paper%20-%20Identifying%20NREM%20Sleep%20Stages%20in%20Consumer%20Wearables.pdf)
+
+[Presentation](https://www.youtube.com/watch?v=xS4Df2oXbMg)
 
 # Reference
 This work is an expansion of the work by Walch et al:

@@ -1,5 +1,8 @@
 ## CSE 6250 - Big Data for Health -Final Project
+[Final Paper](Final Paper - Identifying NREM Sleep Stages in Consumer Wearables.pdf)
+[Presentation]
 
+# Reference
 This work is an expansion of the work by Walch et al:
 - Walch, O. (2019). Motion and heart rate from a wrist-worn wearable and labeled sleep from polysomnography (version 1.0.0). PhysioNet. https://doi.org/10.13026/hmhs-py35.
 - Olivia Walch, Yitong Huang, Daniel Forger, Cathy Goldstein, Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device, Sleep, Volume 42, Issue 12, December 2019, zsz180, https://doi.org/10.1093/sleep/zsz180

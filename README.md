@@ -3,11 +3,15 @@
 
 [Presentation](https://www.youtube.com/watch?v=xS4Df2oXbMg)
 
+# Introduction
+In this project, we built a sleep stage classifier using Apple Watch health data gathered from 31 subjects. This is an expansion of the work by Walch et al [1] [2] that is available on PhysioNet10. While the original work only classifies sleep into 3 stages Wake/NREM/REM, we successfully developed more advanced classifications which classify sleep into more specific classes (4 stages - Wake/N1/N2/N3/REM and 5 stages - Wake/N1+N2/N3/REM) to bring more benefits to sleep studies.
+
 # Reference
-This work is an expansion of the work by Walch et al:
-- Walch, O. (2019). Motion and heart rate from a wrist-worn wearable and labeled sleep from polysomnography (version 1.0.0). PhysioNet. https://doi.org/10.13026/hmhs-py35.
-- Olivia Walch, Yitong Huang, Daniel Forger, Cathy Goldstein, Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device, Sleep, Volume 42, Issue 12, December 2019, zsz180, https://doi.org/10.1093/sleep/zsz180
-- Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
+[1] Walch, O. (2019). Motion and heart rate from a wrist-worn wearable and labeled sleep from polysomnography (version 1.0.0). PhysioNet. https://doi.org/10.13026/hmhs-py35.
+
+[2] Olivia Walch, Yitong Huang, Daniel Forger, Cathy Goldstein, Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device, Sleep, Volume 42, Issue 12, December 2019, zsz180, https://doi.org/10.1093/sleep/zsz180
+
+[3] Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
 
 **To run ML classifiers:**
 - Run ```analysis_runner.py```in \source\analysis

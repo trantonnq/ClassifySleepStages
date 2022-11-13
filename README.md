@@ -10,8 +10,8 @@ In this project, we built a sleep stage classifier using Apple Watch health data
 
 ### Input data
 - Apple Watch data collected during subject's sleep - Heart rate, Motion, Circadian, Clock, Polysonorgaphy (PSG)
-- Prepocess data to create using features to train ML models
-- Use Monte Carlo cross-validation 
+- Prepocessed data to create using features to train ML models
+- Used Monte Carlo cross-validation 
 
 ### Metrics
 - Accuracy and one-versus-rest ROC curve
